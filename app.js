@@ -21,4 +21,4 @@ app.post('/bar', (req, res) =>{
     res.send( req.body);
 });
 
-module.exports = app;
+// module.exports = app;
